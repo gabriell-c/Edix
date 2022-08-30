@@ -1,4 +1,6 @@
-<img align="center" width="400" src="imgs/logoGlow_00000.png">
+ <div align="center">
+   <img  width="400" src="imgs/logoGlow_00000.png">
+</div
 
 ---
 
